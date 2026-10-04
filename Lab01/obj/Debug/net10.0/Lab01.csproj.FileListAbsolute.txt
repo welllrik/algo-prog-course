@@ -12,3 +12,4 @@ C:\Users\Mvideo\Documents\algo-prog-course\Lab01\obj\Debug\net10.0\refint\Lab01.
 C:\Users\Mvideo\Documents\algo-prog-course\Lab01\obj\Debug\net10.0\Lab01.pdb
 C:\Users\Mvideo\Documents\algo-prog-course\Lab01\obj\Debug\net10.0\Lab01.genruntimeconfig.cache
 C:\Users\Mvideo\Documents\algo-prog-course\Lab01\obj\Debug\net10.0\ref\Lab01.dll
+C:\Users\Mvideo\Documents\algo-prog-course\Lab01\obj\Debug\net10.0\Lab01.sourcelink.json
